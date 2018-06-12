@@ -1,6 +1,6 @@
 # TOMCAT 
 
-### Add webapp
+### Add webapp (server.xml)
 
 **Eclise plugin (add and remove...)**
 ```xml
