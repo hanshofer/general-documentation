@@ -1,7 +1,7 @@
 # Servers
 
-* [**Tomcat**](SV_TOMCAT.MD)
+* [**Tomcat**](SV_TOMCAT.md)
 
 # Command lines
 
-* [**Git Bash**](CL_GITBASH.MD)
+* [**Git Bash**](CL_GITBASH.md)
