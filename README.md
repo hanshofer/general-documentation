@@ -1,6 +1,6 @@
 # Servers
 
-* [**Tomcath**](CL_TOMCAT.MD)
+* [**Tomcat**](CL_TOMCAT.MD)
 
 # Command lines
 
