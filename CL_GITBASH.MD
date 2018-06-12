@@ -1,4 +1,4 @@
-###Rename git branch locally and remotely
+### Rename git branch locally and remotely
 
 ```markdown
 git branch -m old_branch new_branch         # Rename branch locally    
