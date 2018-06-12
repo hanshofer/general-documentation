@@ -5,3 +5,4 @@
 # Command lines
 
 * [**Git Bash**](CL_GITBASH.md)
+* [**Linux Bash**](CL_LINUXBASH.md)
